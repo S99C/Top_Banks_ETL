@@ -1,14 +1,14 @@
-2023/12/30-00:26:41: Extract phase Started
-2023/12/30-00:26:43: Extract phase ended
-2023/12/30-00:26:43: Transform phase Started
-2023/12/30-00:26:43: Transform phase ended
-2023/12/30-00:26:43: Loading to csv, Started
-2023/12/30-00:26:43: Loading to csv, ended
-2023/12/30-00:26:43: Loading to sql, Started
-2023/12/30-00:26:43: Loading to sql, ended
-2023/12/30-00:26:43: Running Query
-2023/12/30-00:26:43: Query executed successfully
-2023/12/30-00:26:43: Running Query
-2023/12/30-00:26:43: Query executed successfully
-2023/12/30-00:26:43: Running Query
-2023/12/30-00:26:43: Query executed successfully
+2023/12/30-14:05:52: Extract phase Started
+2023/12/30-14:05:54: Extract phase ended
+2023/12/30-14:05:54: Transform phase Started
+2023/12/30-14:05:54: Transform phase ended
+2023/12/30-14:05:54: Loading to csv, Started
+2023/12/30-14:05:54: Loading to csv, ended
+2023/12/30-14:05:54: Loading to sql, Started
+2023/12/30-14:05:54: Loading to sql, ended
+2023/12/30-14:05:54: Running Query
+2023/12/30-14:05:54: Query executed successfully
+2023/12/30-14:05:54: Running Query
+2023/12/30-14:05:54: Query executed successfully
+2023/12/30-14:05:54: Running Query
+2023/12/30-14:05:54: Query executed successfully
